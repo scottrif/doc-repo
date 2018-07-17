@@ -1,7 +1,7 @@
 .. |br|     raw:: html        .. force a line break in HTML output (blank lines needed here)
 
    <br />
-.. |PN| replace:: Documentation Template
+.. |PN| replace:: Scott Project
 
 .. |LPN| replace:: OTC-TCS Documentation Template
 
