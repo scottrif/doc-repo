@@ -25,3 +25,4 @@ Sections
    release_notes.rst
    howtos/index.rst
    contribute/index.rst
+   Some_other_fantastic_stuff/index.rst
