@@ -28,7 +28,7 @@ understands the licensing rights and agrees to them. Sometimes the
 copyright holder isn't the contributor, such as when the contributor is
 doing work on behalf of a company.
 
-.. _DCO:
+.. _DCO1:
 
 Developer Certification of Origin (DCO)
 ***************************************

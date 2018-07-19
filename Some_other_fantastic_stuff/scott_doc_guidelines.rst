@@ -215,7 +215,7 @@ markup (double backticks) to indicate a ``filename``.
 
 Don't use items within a single backtick, for example ```word```.
 
-.. _internal-linking:
+.. _internal-linking1:
 
 Internal Cross-Reference Linking
 ********************************
@@ -270,7 +270,7 @@ avoided.  For example the top of this document's ``.rst`` file is:
 
 .. code-block:: rst
 
-   .. _doc_guidelines:
+   .. _scott_guidelines:
 
    Documentation Guidelines
    ########################
