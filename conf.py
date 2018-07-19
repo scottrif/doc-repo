@@ -54,9 +54,9 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'OTC-TCS Documentation Template'
-copyright = u'2018, OTC-TCS Documentation Template'
-author = u'OTC-TCS Documentation Template developers'
+project = u'Scott Rifenbark Documentation Template'
+copyright = u'2018, Scott Rifenbark Documentation Template'
+author = u'Scott Rifenbark Documentation Template developers'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -146,7 +146,7 @@ html_context = {
 #
 # html_theme_options = {}
 
-html_logo = 'images/logo_white_200w.png'
+html_logo = 'images/Dude_logo_dark.png'
 html_favicon = 'images/favicon-48x48.png'
 
 numfig = True
