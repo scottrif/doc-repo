@@ -1,7 +1,7 @@
 .. _Some_other_fantastic_stuff:
 
-Contributing to the Project
-###########################
+Really Making an Impact on the World
+####################################
 
 As an open-source project, we welcome and encourage the community to submit
 patches for code, documentation, tests, and more, directly to the project.

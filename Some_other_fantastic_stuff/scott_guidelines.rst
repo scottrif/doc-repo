@@ -1,7 +1,7 @@
 .. _scott_guidelines:
 
-Contribution Guidelines
-#######################
+Scott's Guidelines
+##################
 
 As an open-source project, we welcome and encourage the community to
 submit patches directly to the |LPN|.  In our collaborative open
