@@ -1,4 +1,4 @@
-.. _contribute:
+.. _Some_other_fantastic_stuff:
 
 Contributing to the Project
 ###########################
