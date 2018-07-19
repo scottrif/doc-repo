@@ -229,7 +229,7 @@ notation:
 
 which renders as,
 
-   refer to the `internal-linking`_ page
+   refer to the `internal-linking1`_ page
 
 Note the use of a trailing
 underscore to indicate an outbound link. In this example, the label was
