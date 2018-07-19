@@ -1,4 +1,4 @@
-.. _contribute_guidelines:
+.. _scott_guidelines:
 
 Contribution Guidelines
 #######################

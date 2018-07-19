@@ -1,4 +1,4 @@
-.. _doc_guidelines:
+.. _scott_doc_guidelines:
 
 Documentation Guidelines
 ########################

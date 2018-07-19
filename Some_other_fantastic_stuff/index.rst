@@ -9,5 +9,5 @@ patches for code, documentation, tests, and more, directly to the project.
 .. toctree::
    :maxdepth: 1
 
-   contribute_guidelines.rst
-   doc_guidelines.rst
+   scott_guidelines.rst
+   scott_doc_guidelines.rst
