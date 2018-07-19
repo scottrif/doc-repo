@@ -5,7 +5,7 @@
 
 .. |LPN| replace:: Scott Project Template
 
-.. _project repo: https://github.com/scottrif/
+.. _project repo: https://github.com/scottrif/doc-repo
 
 .. _documentation repo: https://github.com/scottrif/doc-repo
 
