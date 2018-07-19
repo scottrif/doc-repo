@@ -3,15 +3,15 @@
    <br />
 .. |PN| replace:: Scott Project
 
-.. |LPN| replace:: OTC-TCS Documentation Template
+.. |LPN| replace:: Scott Project Template
 
-.. _project repo: https://github.intel.com/otc-tcs/
+.. _project repo: https://github.com/scottrif/
 
-.. _documentation repo: https://github.intel.com/otc-tcs/documentation-template
+.. _documentation repo: https://github.com/scottrif/doc-repo
 
-.. _documentation site: https://github.intel.com/pages/otc-tcs
+.. _documentation site: https://scottrif.github.io/
 
-.. _project website: https://github.intel.com/pages/otc-tcs
+.. _project website: https://scottrif.github.io/
 
 .. These are replacement strings for non-ASCII characters used within the project
    using the same name as the html entity names (e.g., &copy;) for that character
